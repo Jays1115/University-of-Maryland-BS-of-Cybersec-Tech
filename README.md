@@ -9,7 +9,7 @@ This section showcases a collection of projects and labs I completed at UMGC, ea
 
 <h3> CMIT 202: Fundamentals of Computer Troubleshooting Projects </h3>
 
-- <b>[BYOD Registration Form](https://github.com/Jays1115/Migrating-a-static-website-to-AWS-Cloud.git)</b>
+- <b>[BYOD Registration Form](https://github.com/Jays1115/BYOD-Registration-Form.git)</b>
 - <b>[Desktop Migration Proposal](https://github.com/Jays1115/Migrating-a-static-website-to-AWS-Cloud.git)</b>
 - <b>[Support Queue Case Study](https://github.com/Jays1115/Migrating-a-static-website-to-AWS-Cloud.git)</b>
 
